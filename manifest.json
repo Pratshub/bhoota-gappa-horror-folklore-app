@@ -1,0 +1,21 @@
+{
+  "name": "Bhoota Gappa — भूत गप्प",
+  "short_name": "Bhoota Gappa",
+  "description": "Turn your picture into a horror folklore creature from Indian mythology",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0005",
+  "theme_color": "#0a0005",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><rect width='512' height='512' fill='%230a0005'/><text y='320' x='80' font-size='380'>👁</text></svg>",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [],
+  "categories": ["entertainment", "lifestyle"],
+  "lang": "en-IN"
+}
